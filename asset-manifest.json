@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Frirst_reactapp/static/css/main.8a4f7f43.chunk.css",
+    "main.js": "/Frirst_reactapp/static/js/main.b133f2c2.chunk.js",
+    "main.js.map": "/Frirst_reactapp/static/js/main.b133f2c2.chunk.js.map",
+    "runtime-main.js": "/Frirst_reactapp/static/js/runtime-main.b1757dd7.js",
+    "runtime-main.js.map": "/Frirst_reactapp/static/js/runtime-main.b1757dd7.js.map",
+    "static/css/2.73a4b9c4.chunk.css": "/Frirst_reactapp/static/css/2.73a4b9c4.chunk.css",
+    "static/js/2.a382535e.chunk.js": "/Frirst_reactapp/static/js/2.a382535e.chunk.js",
+    "static/js/2.a382535e.chunk.js.map": "/Frirst_reactapp/static/js/2.a382535e.chunk.js.map",
+    "static/js/3.db62e5be.chunk.js": "/Frirst_reactapp/static/js/3.db62e5be.chunk.js",
+    "static/js/3.db62e5be.chunk.js.map": "/Frirst_reactapp/static/js/3.db62e5be.chunk.js.map",
+    "index.html": "/Frirst_reactapp/index.html",
+    "static/css/2.73a4b9c4.chunk.css.map": "/Frirst_reactapp/static/css/2.73a4b9c4.chunk.css.map",
+    "static/css/main.8a4f7f43.chunk.css.map": "/Frirst_reactapp/static/css/main.8a4f7f43.chunk.css.map",
+    "static/js/2.a382535e.chunk.js.LICENSE.txt": "/Frirst_reactapp/static/js/2.a382535e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1757dd7.js",
+    "static/css/2.73a4b9c4.chunk.css",
+    "static/js/2.a382535e.chunk.js",
+    "static/css/main.8a4f7f43.chunk.css",
+    "static/js/main.b133f2c2.chunk.js"
+  ]
+}
